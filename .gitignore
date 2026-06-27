@@ -1,0 +1,22 @@
+# === Data & Large Files ===
+# Isse aapki 100MB+ ki heavy dataset file GitHub par upload nahi hogi
+quikr_car.csv
+
+# === Python Cache & Core Cruft ===
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.python-version
+
+# === Virtual Environments ===
+venv/
+env/
+.venv/
+ENV/
+
+# === IDE & OS Specific Configurations ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
