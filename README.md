@@ -1,4 +1,4 @@
-# Automotive Resale Price Predictor 🚗📊
+# Automotive car Price Predictor using ML🚗📊
 
 An enterprise-grade, end-to-end Machine Learning pipeline designed to ingest raw, unformatted car marketplace listings, execute an automated data cleaning sequence, and train a robust **Linear Regression** model using Scikit-Learn pipelines. The system features an interactive command-line interface (CLI) for real-time vehicle valuation.
 
